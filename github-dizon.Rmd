@@ -5,17 +5,9 @@ date: "2022-11-22"
 output: pdf_document
 ---
 
-```{r}
-git config --global user.name 'bessiedizon'
-```
 
-```{r}
-git config --global user.email 'besh_dizon@nvsu.edu.ph'
-```
 
-```{r}
-git config --global user.email "besh_dizon@nvsu.edu.ph"
-```
+
 
 
 
