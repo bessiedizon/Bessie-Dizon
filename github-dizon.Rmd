@@ -6,7 +6,7 @@ output: pdf_document
 ---
 
 ```{r}
-git config --global user.name 'Bessie Dizon'
+git config --global user.name 'bessiedizon'
 ```
 
 ```{r}
